@@ -10,9 +10,9 @@ Only functions are block scoped in javascript. Therefore variable declared in if
 let animal;
 
 if (true) {
-  animal = cheetah;
+  animal = "cheetah";
 } else {
-  alert("no animal");
+  animal = "no animal";
 }
 
 console.log(animal);
