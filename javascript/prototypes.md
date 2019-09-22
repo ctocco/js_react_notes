@@ -28,3 +28,28 @@ __proto__
 ```
 
 Is actually referring to Object.prototype and is where you will see the methods and properties that you add to the prototype
+
+### Another example
+
+```js
+const cities = {
+  Australia: "Melbourne",
+  findCity: function() {
+    console.log(this.Australia);
+  }
+};
+// this refers to the object
+cities.findCity(); // Melbourne
+
+//constructor functions
+
+function Video(title, length) {
+  this.title = title;
+  this.length = length;
+  console.log(this.title, this.length + " hours");
+}
+
+// constructor will create new object and bind this
+const movie = new Video("Home Alone", 2); // {}
+console.log(movie.title);
+```
