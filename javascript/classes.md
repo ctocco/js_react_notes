@@ -15,8 +15,8 @@ Classes in JS are syntatical sugar and try to imitate what classes are like in o
 ```js
 
 Class Exercise {
-    constructor(type, duration) {
-        this.type = type
+    constructor(exercise, duration) {
+        this.exercise = exercise
         this.duration = duration
     }
 }
