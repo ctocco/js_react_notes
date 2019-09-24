@@ -1,0 +1,4 @@
+- https://www.remove.bg/
+- https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+- https://github.com/airbnb/react-sketchapp
+- https://type-scale.com/
