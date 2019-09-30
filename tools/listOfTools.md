@@ -1,4 +1,4 @@
-# Front end master recommend
+# Front end master recommended
 
 Brian reviews software tools that are commonly used to code and build websites as well as additional educational resources for continued development.
 
@@ -7,3 +7,13 @@ Brian reviews software tools that are commonly used to code and build websites a
         https://hyper.is/
         http://cmder.net/
         https://www.zsh.org/
+
+Fonts
+
+- fira code (free)
+- dank mono (paid)
+
+To change the font
+pref => settings => do both below
+editor => font family
+editor => font ligatures
