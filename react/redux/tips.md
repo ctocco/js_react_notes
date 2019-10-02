@@ -1,0 +1,1 @@
+https://dev.to/jsmanifest/12-things-not-to-do-when-building-react-apps-with-redux-n5i
