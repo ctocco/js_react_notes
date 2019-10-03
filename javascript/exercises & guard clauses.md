@@ -53,5 +53,3 @@ const assertString = str => {
   return true;
 };
 ```
-
-I’ve adopted this style of exiting everywhere applicable and really like it. I’d encourage you to give it a whirl.
