@@ -58,3 +58,5 @@ function sampleFunction() {
 
 sampleFunction();
 ```
+
+In if statements or anything that is within a {} the let constant will now be scoped var will not be and will always in those cases be a global variable.
