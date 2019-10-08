@@ -15,3 +15,5 @@
 - Quokka
 - Simple React Snippets
 - TSLint
+- npmIntellisense
+- for autocomplete on things like h1 (e.g emmet) in React you need to change the bottom right hand corner to javascript-react or you can change extension to .jsx
