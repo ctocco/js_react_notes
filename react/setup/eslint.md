@@ -32,3 +32,5 @@
 - 0 means off and 1 means on
 
 please see the file which you can copy into your project
+
+10. npm i -D eslint-plugin-react-hooks
