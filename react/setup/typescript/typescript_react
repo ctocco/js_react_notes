@@ -1,0 +1,11 @@
+# Typescript and React
+
+Helpful website
+- https://fettblog.eu/typescript-react/getting-started/ 
+
+- npm install -D typescript
+- npx tsc -- init
+- change the tsconfig file (see file in the same folder)
+- npm install -D @types/react @types/react-dom @types/reach__router
+- .tsx is required for typescript
+- npm install -D tslint tslint-react tslint-config-prettier
