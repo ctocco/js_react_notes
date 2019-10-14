@@ -1,4 +1,4 @@
-# Front end master recommended
+# Recommended tools
 
 Brian reviews software tools that are commonly used to code and build websites as well as additional educational resources for continued development.
 
@@ -17,3 +17,7 @@ To change the font
 pref => settings => do both below
 editor => font family
 editor => font ligatures
+
+## placeholder images
+
+http://placecorgi.com
