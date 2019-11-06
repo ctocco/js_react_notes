@@ -21,3 +21,7 @@ editor => font ligatures
 ## placeholder images
 
 http://placecorgi.com
+
+
+https://yeoman.io/
+https://docs.nestjs.com/controllers
